@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: The Journey
 ---
 
-#THIS IS BLOG
+On a quest to wean myself off of google.
